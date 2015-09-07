@@ -1,0 +1,25 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("input.cljs"
+ (filename . "~/workspace/centipair/projects/Accrue/src-cljs/centipair/core/components/input.cljs")
+ (front-context-string . "\n  )\n\n(defn sele")
+ (rear-context-string . "ld key value]\n  ")
+ (position . 11930))
+("manage.cljs"
+ (filename . "~/workspace/centipair/store3/centipair/src-cljs-admin/centipair/user/manage.cljs")
+ (front-context-string . "\n\n(defn render-u")
+ (rear-context-string . "eset-inputs []))")
+ (position . 3945))
+("nosql.clj"
+ (filename . "~/workspace/centipair/wemebox/centipair/src/clj/centipair/core/auth/user/nosql.clj")
+ (front-context-string . "\n    ))\n\n\n(defn ")
+ (rear-context-string . "ogin)]\n    \n    ")
+ (position . 5404))
+("sql.clj"
+ (filename . "~/workspace/centipair/store3/centipair/src/centipair/core/auth/user/sql.clj")
+ (front-context-string . "})\n          ))\n")
+ (rear-context-string . "user_account_id ")
+ (position . 3031))
+)
