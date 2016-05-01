@@ -2,7 +2,22 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("input.cljs"
+(("cassandra.clj"
+ (filename . "~/workspace/wemebox/src/clj/libs/centipair/user/models/cassandra.clj")
+ (front-context-string . ")\n      )))\n\n(de")
+ (rear-context-string . "er-session-index")
+ (position . 5536))
+("polls.cljs"
+ (filename . "~/workspace/metapoller/src-cljs-admin/metapoller/polls.cljs")
+ (front-context-string . "\n               ")
+ (rear-context-string . "                ")
+ (position . 3864))
+("models.clj"
+ (filename . "~/workspace/metapoller/src/metapoller/models.clj")
+ (front-context-string . "\n    (let [user-")
+ (rear-context-string . "(v params)]\n    ")
+ (position . 18297))
+("input.cljs"
  (filename . "~/workspace/centipair/projects/Accrue/src-cljs/centipair/core/components/input.cljs")
  (front-context-string . "\n  )\n\n(defn sele")
  (rear-context-string . "ld key value]\n  ")
